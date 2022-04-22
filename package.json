@@ -1,0 +1,28 @@
+{
+  "name": "api-node",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/manueldmgz/api-node-js-casa9.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/manueldmgz/api-node-js-casa9/issues"
+  },
+  "homepage": "https://github.com/manueldmgz/api-node-js-casa9#readme",
+  "devDependencies": {
+    "eslint": "^8.13.0"
+  },
+  "dependencies": {
+    "express": "^4.17.3"
+  }
+}
+{
+  "start": "node app/server.js"
+}
